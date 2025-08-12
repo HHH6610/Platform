@@ -6,6 +6,9 @@ import numpy
 def say_hello():
     print("hello world")
 
+def add_Second():
+    print("second")
+
 if __name__ == "__main__":
     say_hello()
 
