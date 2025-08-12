@@ -9,6 +9,9 @@ def say_hello():
 def add_Second():
     print("second")
 
+def add_third():
+    print("third")
+
 if __name__ == "__main__":
     say_hello()
 
