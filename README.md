@@ -1,2 +1,2 @@
 #Platform
-add info in master
+add new infos in README.md
